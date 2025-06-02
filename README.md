@@ -34,10 +34,15 @@ Each operation result is displayed for **2 seconds sequentially** in the simulat
 
 ## Project Structure
 ├── Gates/ # CMOS implementations of basic logic gates
+
 ├── Operations/ # Circuits for each of the 8 ALU operations
+
 ├── Mux/ # 8:1 digital multiplexer (one for each output bit)
+
 ├── ALU_Final/ # Fully integrated 4-bit ALU circuit
+
 ├── Screenshots/ # Sample waveforms and output images
+
 └── README.md # Project overview and instructions
 
 
